@@ -1,0 +1,7 @@
+.slide-left {
+    transform: translateX(-100px);
+}
+
+.slide-bottom {
+    transform: translateY(-100px);
+}
